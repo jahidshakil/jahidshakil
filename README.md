@@ -19,7 +19,7 @@
   Hi, I'm Jahid Shakil, Computer Engineer & Software Developer from Bangladesh
   <br>
   <br>
-  🎓 I have graduated from Noakhali Science And Technology University and currently working as a software engineer trainee at Sales Connection.
+  🎓 I have graduated from Noakhali Science And Technology University and currently working as a Software Engineer trainee at Sales Connection.
   <br>
   📫 How to reach me: <a href="mailto: jaidaladin@gmail.com">jahidaladin@gmail.com</a>
 </p>
